@@ -52,7 +52,7 @@ macOS 平台可以方便地接收来自 iPhone 的短信，由于不经常带苹
 
 ## 自行编译
 
-- `git clone https://github.com/LeeeSe/MessAuto.git`
+- `git clone https://github.com/wsbghope/MessToEmail.git`
 - `cd MessToEmail`
 - `cargo install cargo-bundle`
 - `cargo bundle --release`
