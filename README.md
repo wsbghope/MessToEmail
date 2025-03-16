@@ -5,7 +5,7 @@
 
 # MessToEmail
 
-MessToEmail 是一款 macOS 平台自动提取短信验证码发送到邮箱的的软件，百分百由Rust开发，适用于任何APP。
+MessToEmail 是一款 macOS 平台自动提取短信内容发送到邮箱的的软件，百分百由Rust开发，适用于任何APP。
 
 ## 使用方法
 
